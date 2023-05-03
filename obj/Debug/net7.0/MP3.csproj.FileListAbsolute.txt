@@ -1,0 +1,15 @@
+/Users/maciejzelias/Development/MAS/MP3/obj/Debug/net7.0/MP3.csproj.AssemblyReference.cache
+/Users/maciejzelias/Development/MAS/MP3/obj/Debug/net7.0/MP3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maciejzelias/Development/MAS/MP3/obj/Debug/net7.0/MP3.AssemblyInfoInputs.cache
+/Users/maciejzelias/Development/MAS/MP3/obj/Debug/net7.0/MP3.AssemblyInfo.cs
+/Users/maciejzelias/Development/MAS/MP3/obj/Debug/net7.0/MP3.csproj.CoreCompileInputs.cache
+/Users/maciejzelias/Development/MAS/MP3/bin/Debug/net7.0/MP3
+/Users/maciejzelias/Development/MAS/MP3/bin/Debug/net7.0/MP3.deps.json
+/Users/maciejzelias/Development/MAS/MP3/bin/Debug/net7.0/MP3.runtimeconfig.json
+/Users/maciejzelias/Development/MAS/MP3/bin/Debug/net7.0/MP3.dll
+/Users/maciejzelias/Development/MAS/MP3/bin/Debug/net7.0/MP3.pdb
+/Users/maciejzelias/Development/MAS/MP3/obj/Debug/net7.0/MP3.dll
+/Users/maciejzelias/Development/MAS/MP3/obj/Debug/net7.0/refint/MP3.dll
+/Users/maciejzelias/Development/MAS/MP3/obj/Debug/net7.0/MP3.pdb
+/Users/maciejzelias/Development/MAS/MP3/obj/Debug/net7.0/MP3.genruntimeconfig.cache
+/Users/maciejzelias/Development/MAS/MP3/obj/Debug/net7.0/ref/MP3.dll
